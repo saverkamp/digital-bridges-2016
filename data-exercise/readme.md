@@ -1,4 +1,4 @@
-##Mapping Correspondence Data Prep Exercise
+## Mapping Correspondence Data Prep Exercise
 
 For this exercise, we will examine a successful digital humanities visualization, [Mapping the Republic of Letters](http://republicofletters.stanford.edu/), and given datasets for five 19th century American authors, strategize the necessary data cleanup, normalization, and enrichment necessary to produce a similar visualization. The Republic of letters consists of a number of individual cases studies each created by teams of different humanities collaborators and each producing a visualization to address specific research questions. We will look at a visualization produced in collaboration with the [Tooling up for Digital Humanities project](http://toolingup.stanford.edu/) at the Stanford University [Center for Spatial and Textual Analysis](http://cesta.stanford.edu/).
 
